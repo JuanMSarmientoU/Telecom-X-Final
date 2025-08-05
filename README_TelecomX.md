@@ -55,7 +55,7 @@ El objetivo principal es identificar qué clientes tienen más probabilidad de c
 
 ## 📂 Archivos incluidos
 
-- `Proyecto_TelecomX_Notebook_Final.ipynb` → Notebook completo del flujo de trabajo
+- `TelecomX.ipynb` → Notebook completo del flujo de trabajo
 - `Presentacion_Final_TelecomX.pdf` → Presentación ejecutiva con gráficos e insights
 - `modelo_champion_rf.pkl`, `umbral_champion.pkl` → Artefactos del modelo
 
