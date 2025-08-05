@@ -1,5 +1,3 @@
-[README_TelecomX.md](https://github.com/user-attachments/files/21608005/README_TelecomX.md)
-
 # 📊 Proyecto: Predicción de Cancelación de Clientes - TelecomX
 
 Este proyecto aplica técnicas de Machine Learning para predecir la cancelación de clientes (churn) en una empresa de telecomunicaciones ficticia, **TelecomX**.
